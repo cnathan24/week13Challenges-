@@ -1,0 +1,64 @@
+{
+    "employees":[
+        {
+            "name":"Carla Nathan",
+            "id":1,
+            "salary":200000,
+            "department":"Front end Developer & Lead Designer"
+        },
+        {
+            "name":"Kyle Morray",
+            "id":2,
+            "salary":55000,
+            "department":"Photographer"
+        },
+        {
+            "name":"Gary Mcarthy",
+            "id":3,
+            "salary":105000,
+            "department":"Back-end Engineer"
+        },
+        {
+            "name":"Aki Poole",
+            "id":4,
+            "salary":52000,
+            "department":"Chef"
+        },
+        {
+            "name":"Sean Smith",
+            "id":5,
+            "salary":63000,
+            "department":"Videographer"
+        },
+        {
+            "name":"Akeela Johnson",
+            "id":6,
+            "salary":45000,
+            "department":"Jr Designer"
+        },
+        {
+            "name":"Yvette Hudson",
+            "id":7,
+            "salary":130000,
+            "department":"Accountant"
+        },
+        {
+            "name":"Maddison Spole",
+            "id":8,
+            "salary":74000,
+            "department":"User Researcher"
+        },
+        {
+            "name":"Daisha Price",
+            "id":9,
+            "salary":62000,
+            "department":"Content Strategist"
+        },
+        {
+            "name":"Damien Sykes",
+            "id":10,
+            "salary":74000,
+            "department":"Team Activities Coordinator"
+        }
+    ]
+}
